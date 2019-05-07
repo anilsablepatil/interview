@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.gradle/4.3/fileChanges/last-build.bin
+/.gradle/4.3/fileContent/annotation-processors.bin
+/.gradle/4.3/fileContent/fileContent.lock
+/.gradle/4.3/fileHashes/fileHashes.bin
+/.gradle/4.3/fileHashes/fileHashes.lock
+/.gradle/4.3/fileHashes/resourceHashesCache.bin
+/.gradle/4.3/taskHistory/taskHistory.bin
+/.gradle/4.3/taskHistory/taskHistory.lock
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.project
+/.settings/org.eclipse.buildship.core.prefs
+*/.classpath
+*.bin
+*.lock
+.gradle/*
+*/.gradle/*
+*/.project
+*/build/*
+*/.settings/*
