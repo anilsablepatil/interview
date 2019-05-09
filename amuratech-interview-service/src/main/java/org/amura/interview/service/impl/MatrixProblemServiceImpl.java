@@ -192,7 +192,7 @@ public class MatrixProblemServiceImpl implements MatrixProblemService {
 	private boolean validateMatrixForRowsAndColumn(int[][] arr) {
 		boolean isValidMatrix = false;
 		
-		if(arr.length > 0) {
+		if(arr != null && arr.length > 0) {
 			int len = arr[0].length;
 			isValidMatrix = true;
 			
